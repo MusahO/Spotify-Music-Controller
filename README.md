@@ -31,6 +31,7 @@ cd frontend
 Next install all dependicies.
 ```bash
 npm install
+```
 
 ### Compile the Front-End
 
